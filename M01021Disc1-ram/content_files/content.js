@@ -9,6 +9,7 @@ $(document).ready(function(){
 							 $(".hand1").show();
 
 	$(".first_button").click(function () {
+		console.log(1)
 		buttonSequence = 1;
 		ContentCount =6;
 
